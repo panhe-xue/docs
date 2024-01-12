@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e}from"./chunks/framework.K5DDV7Tz.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"basics/javascript/存储.md","filePath":"basics/javascript/存储.md"}'),s={name:"basics/javascript/存储.md"};function c(r,o,i,n,p,_){return e(),t("div")}const f=a(s,[["render",c]]);export{m as __pageData,f as default};
